@@ -1,0 +1,39 @@
+.cabecalho {
+  background-color: #1f2937; /* azul escuro sério */
+  color: white;
+  padding: 15px;
+}
+
+.cabecalho h1 {
+  margin: 0;
+}
+
+body {
+  margin: 0;
+  background-color: #f3f4f6; /* fundo neutro */
+}
+
+main {
+  display: flex;
+  justify-content: center;
+}
+
+.formulario {
+  width: 300px;
+  background-color: white;
+  padding: 20px;
+  border-radius: 6px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+}
+
+.formulario section {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 12px;
+}
+
+input {
+  padding: 8px;
+  border: 1px solid #d1d5db;
+  border-radius: 4px;
+}
