@@ -13,6 +13,7 @@ O objetivo principal foi **reforçar fundamentos essenciais do desenvolvimento f
 # 📷 Preview do Projeto
 
 ![Preview do Projeto](imagens/cadastro.png)
+---
 ![Preview do Projeto](imagens/login.png)
 
 ---
